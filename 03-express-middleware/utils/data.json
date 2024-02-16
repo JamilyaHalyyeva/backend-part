@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "username": "baggy",
+      "id": 1,
+      "email": "baggy@gmail.com"
+    },
+    {
+      "username": "Timmy",
+      "id": 2,
+      "email": "timmy@gmail.com"
+    }
+  ],
+  "tweets": []
+}
